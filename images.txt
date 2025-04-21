@@ -7,4 +7,5 @@
 #registry.k8s.io
 #python:3.9
 #registry.k8s.io/descheduler/descheduler:v0.32.2
-registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
+#registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
+prom/prometheus:v2.53.0
