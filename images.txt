@@ -13,4 +13,5 @@
 #quay.io/prometheus-operator/prometheus-operator:v0.81.0
 #jenkins/jenkins:lts-jdk11
 #nginx:1.7.9
-jenkins/jenkins
+#jenkins/jenkins
+jenkins/jenkins:lts-jdk21
